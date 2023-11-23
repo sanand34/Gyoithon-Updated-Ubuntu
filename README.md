@@ -1,7 +1,5 @@
 # **GyoiThon**: **Next generation penetration test tool**
 
-<img src="./img/gyoithon_logo.png" width="600">  
- 
 
 ## Overview
 GyoiThon is **Intelligence Gathering tool** for Web Server.  
